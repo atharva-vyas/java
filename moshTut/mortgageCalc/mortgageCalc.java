@@ -22,6 +22,6 @@ public class mortgageCalc {
 
         double monthlyPayment = principal * (upperBound / lowerBound);
         
-        System.out.print(Math.round(monthlyPayment * 100.0) / 100.0);
+        System.out.print("monthly payment: " + Math.round(monthlyPayment * 100.0) / 100.0);
     }
 }
