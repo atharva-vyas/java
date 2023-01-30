@@ -1,5 +1,3 @@
-package adv;
-
 public class enum0 {
     enum Day {
         Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday;
